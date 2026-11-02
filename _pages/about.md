@@ -9,7 +9,7 @@ redirect_from:
 
 ## Personal Details
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), supervised by [Professor Junxian He](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on **natural language processing (NLP)** and **machine learning (ML)**.
+I am a first-year PhD candidate at the **HKUST NLP Group**, supervised by **Professor Junxian He**. My research focuses on **natural language processing (NLP)** and **machine learning (ML)**.
 
 My research interests include:
 - **LLM Reasoning and Reinforcement Learning**
@@ -22,14 +22,14 @@ My research interests include:
 
 - **Ph.D. in Computer Science (2024 - Present)**  
   *Hong Kong University of Science and Technology (HKUST)*  
- _member of [HKUST NLP Group](https://github.com/hkust-nlp), advised by [Prof. Junxian He]_
+  Research group: **HKUST NLP Group** (led by Professor Junxian He); PhD supervisor: **Professor Junxian He**.
 
 - **B.Eng. (2020 - 2024)**  
   *Shanghai Jiao Tong University (SJTU)*  
   Graduated in June 2024; previously advised by Professor Junxian He during undergraduate studies at SJTU.
 
 ### Honors and Awards
-- **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University (SJTU)
+- Received **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University (SJTU).
 
 ---
 
@@ -37,9 +37,9 @@ My research interests include:
 
 - **Research Intern at MINIMAX** (February 2025 - Present)
 - **Research Intern at Tencent WXG** (June 2024 - September 2024)  
-  Advisor: Zifei Shan (Tencent WXG)
+  Advisor: **Zifei Shan** (Tencent WXG)
 - **Research Intern at Shanghai AI Lab** (June 2023 - December 2023)  
-  Advisor: Prof. Yu Cheng (Shanghai AI Lab)
+  Advisor: **Prof. Yu Cheng** (Shanghai AI Lab)
 
 ---
 
@@ -58,17 +58,17 @@ My research interests include:
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — **First Author**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *Published on Arxiv*, 2025.  
-   Code: GitHub code repository
+   Code: Has GitHub code repository.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — **First Author**  
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *Published on Arxiv*, 2025.  
-   Code: GitHub code repository ([Vision4Chart](https://github.com/hkust-nlp/Vision4Chart))
+   Code: Has GitHub code repository (`Vision4Chart`).
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — **First Author**  
    **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
    *Published at EMNLP 2024* (Conference on Empirical Methods in Natural Language Processing).  
-   Code: GitHub code repository ([Universal_Truthfulness_Hyperplane](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane))
+   Code: Has GitHub code repository (`Universal_Truthfulness_Hyperplane`).
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024) — **Co-authored**  
    Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
